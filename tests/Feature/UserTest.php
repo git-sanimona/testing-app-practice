@@ -44,4 +44,3 @@ class UserTest extends TestCase
         ]);
     }
 }
-44

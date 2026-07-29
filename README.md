@@ -22,3 +22,4 @@ COACHTECH 教材 Tutorial 10-5「テスト ハンズオン演習」で作成し�
 ## 動作確認
 
 テストを実行(コマンド：sail artisan test --filter UserTest)でパスするか確認
+<img width="634" height="103" alt="Image" src="https://github.com/user-attachments/assets/64803825-c939-4da6-b373-27b42e47786e" />
